@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "880565684491",
+    "project_id": "shecha-immunize",
+    "storage_bucket": "shecha-immunize.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880565684491:android:fbaaa7960990131cb87a0e",
+        "android_client_info": {
+          "package_name": "com.example.shecha_immunize"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbTDoKZnwILFeQl3HOm9fJ4TLq1BsLkmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
